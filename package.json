@@ -1,7 +1,14 @@
 {
   "name": "ant-edu.ai",
   "version": "0.1.1",
+  "description": "ant-edu.ai online",
   "private": false,
+  "main": "index.js",
+  "keywords": [
+    "ant-edu",
+    "online",
+    "code"
+  ],
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -37,9 +44,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thuanbx193/ant-edu.ai.git"
+    "url": "https://github.com/thuanbx193/ant-edu.ai.git"
   },
-  "author": "",
+  "author": "thuanbx193",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/thuanbx193/ant-edu.ai/issues"
